@@ -6,6 +6,10 @@
 <h1 align="center">Hi 👋, I'm Shoaib Sarfraz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+As an experienced front-end developer with expertise in React/Redux and Vue.js. I have contributed to various projects, building dynamic user experiences and utilizing modern tools and frameworks to create high-quality web applications. I am always eager to learn and stay up-to-date with industry trends to provide top-notch solutions to clients. If you are looking for a front-end developer, let's connect and explore how I can help take your projects to the next level.
+
+##### Here are some more things about me:
+
 - 🔭 I’m currently working on [Propdash - A fullstack MERN app. I have also decided to use TypeScript for this project, as I would like to gain more experience using TypeScript.](https://github.com/shoaib-sarfraz/Propdash)
 
 - 🌱 I’m currently learning **Typescript**
@@ -17,10 +21,6 @@
 - 📫 How to reach me **You can get hold of me on LinkedIn or via email at shoaib.sarfraz@ymail.com**
 
 - ⚡ Fun fact **I've never broken a bone in my body.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
