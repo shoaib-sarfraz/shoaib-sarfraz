@@ -12,8 +12,6 @@ As an experienced front-end developer with expertise in React/Redux and Vue.js. 
 
 - 🔭 I’m currently working on [Propdash - A fullstack MERN app. I have also decided to use TypeScript for this project, as I would like to gain more experience using TypeScript.](https://github.com/shoaib-sarfraz/Propdash)
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👯 I’m looking to collaborate on **I would love to start contributing to an open source project. I am still attempting to determine how to do so.**
 
 - 💬 Ask me about **React, Vue, Agile methodologies(Scrum)**
